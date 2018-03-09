@@ -31,8 +31,8 @@ function topFunction() {
 
 // chat para target
     (function(d, w, c) {
-        w.ChatraID = 'a5HQaZLstnJNKXS69';
-        var s = d.createElement('script');
+		w.ChatraID = 'a5HQaZLstnJNKXS69';
+		var s = d.createElement('script');
         w[c] = w[c] || function() {
             (w[c].q = w[c].q || []).push(arguments);
         };
@@ -47,5 +47,3 @@ function topFunction() {
         buttonBg: '#f44336'    /* chat button background color */
     }
 };
-
-
